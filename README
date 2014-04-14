@@ -1,0 +1,19 @@
+##### ADDED 4/14/2014 #####
+
+Contained here are 4 directories related to the BLE beacon project for CS 491, Spring 2014.
+	
+	-RFduino
+	-Android
+	-iOS
+	-API
+	
+RFduino		- RFduino development
+
+iOS			- iOS app development
+
+Android		- Android app development
+
+API			- API development
+
+############################
+ 
